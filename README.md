@@ -9,7 +9,7 @@ It provides insights into sales, profit, and order distribution across various d
 ---
 
 ## 🚀 Live Dashboard
-🔗 **[View on Tableau Public](https://public.tableau.com/views/FinancialPerformanceDashboard_17546646807430/FinancialPerormanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+🔗 **[View on Tableau Public](https://public.tableau.com/views/Dashboard_Creation_Task2/SuperStoreSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 *(Opens in a new tab – interactive dashboard)*
 
 ---
